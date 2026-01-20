@@ -47,3 +47,5 @@ plt.savefig("plot")
 plt.show()
 """
 
+print(Model().load_artists_with_min_albums(5))
+
